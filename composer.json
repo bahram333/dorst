@@ -1,0 +1,21 @@
+{
+    "name": "bahram333/rssast",
+    "description": "qwfqw",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "bahram_salehy",
+            "email": "admin@istgahfani.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bahram\\ast\\": ""
+        }
+    }
+}
